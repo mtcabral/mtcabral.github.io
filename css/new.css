@@ -37,3 +37,22 @@
 	text-align: left;
 }
 
+
+
+.sidebar .icons{ 
+	float:left;
+    font-family: 'et-line';
+	color:#212121;
+	font-size:24px;
+	line-height:24px;
+	
+	padding-right:10px;
+}
+
+
+.sidebar h6{ 
+	text-align:left;
+	padding-bottom:10px;
+	padding-top:5px;
+
+}
