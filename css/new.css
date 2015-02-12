@@ -21,3 +21,14 @@
 	color:#000;
 	border-bottom: 1px solid #007F7F;
 }
+
+.content-post h5 {
+	padding-top: 60px;
+}
+
+.content-post p {
+	padding-bottom: 20px;
+}
+.content-post {
+	background: #fff;
+}
