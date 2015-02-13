@@ -4,3 +4,8 @@ About me
 - LOW
 scroll
 carousel with pause e bolinhas
+
+arranjar bolas menu right index
+images comprimidas
+
+
