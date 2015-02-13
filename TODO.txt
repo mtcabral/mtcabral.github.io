@@ -5,25 +5,15 @@ About me
 velocidade carousel
 
 cor do texto cinzento esta demasiado claro
-cor dos links
-fix resize videos pulse chair
-
-
-cor do texto cinzento esta demasiado claro
-
-
-short video demo available
-
-erro foto top outsystems
-cor minimalistic outsystems
-
 
 readability Maria Top bar
 opacidade do branco hover
 
+quadrado branco on top como link p baixo em cada proj ou mudar p outra seta ou consistência no circulo p baixo
+
 
 - LOW
-caixa branca do capelinhos no top como botao para projecto
+caixa branca do OS no top como botao para projecto
+max width for videos (fix black sides) ??
 scroll
 link resume footer
-mudar cor links caixa sidebar
