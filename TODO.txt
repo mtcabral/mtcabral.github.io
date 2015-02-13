@@ -1,7 +1,6 @@
 About me
 
 cor do texto cinzento esta demasiado claro
-opacidade do branco hover
 
 
 - LOW
