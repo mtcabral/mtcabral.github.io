@@ -56,3 +56,11 @@
 	padding-top:5px;
 
 }
+
+
+.hero-text.back-white-large{
+	max-width:420px;
+	padding:30px;
+	display:block;
+	background:rgba(255,255,255,.9);
+}
