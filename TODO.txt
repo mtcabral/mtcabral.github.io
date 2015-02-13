@@ -1,10 +1,9 @@
 
-farmfresh: ver s falo em service design texto
 About me
 
 
 cor do texto cinzento esta demasiado claro
-
+cor dos links
 fix resize videos pulse chair
 
 short video demo available
