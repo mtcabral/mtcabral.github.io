@@ -5,7 +5,6 @@ About me
 velocidade carousel
 
 cor do texto cinzento esta demasiado claro
-cor dos links
 fix resize videos pulse chair
 
 
