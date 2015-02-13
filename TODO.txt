@@ -1,7 +1,6 @@
-check spelling 
+
 farmfresh: ver s falo em service design texto
 About me
-links para website clientes + mojo
 
 
 cor do texto cinzento esta demasiado claro
@@ -9,7 +8,6 @@ cor do texto cinzento esta demasiado claro
 fix resize videos pulse chair
 
 short video demo available
-link para pdf processo do sanofi identidade
 
 erro foto top outsystems
 cor minimalistic outsystems
@@ -17,7 +15,6 @@ cor minimalistic outsystems
 
 readability Maria Top bar
 opacidade do branco hover
-resume link new tab
 
 
 - LOW
