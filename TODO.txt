@@ -1,6 +1,6 @@
 About me
 
 
-
 - LOW
 scroll
+carousel with pause e bolinhas
