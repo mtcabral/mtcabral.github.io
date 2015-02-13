@@ -1,21 +1,12 @@
 
 About me
 
-
-velocidade carousel
-
 cor do texto cinzento esta demasiado claro
-fix resize videos pulse chair
-
-
-cor do texto cinzento esta demasiado claro
-
 
 short video demo available
 
 erro foto top outsystems
 cor minimalistic outsystems
-
 
 readability Maria Top bar
 opacidade do branco hover
