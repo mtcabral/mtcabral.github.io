@@ -12,7 +12,5 @@ opacidade do branco hover
 
 
 - LOW
-caixa branca do capelinhos no top como botao para projecto
 scroll
 link resume footer
-mudar cor links caixa sidebar
