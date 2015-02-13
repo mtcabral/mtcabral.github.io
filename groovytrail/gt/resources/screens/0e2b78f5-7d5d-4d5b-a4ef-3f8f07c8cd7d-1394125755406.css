@@ -1,0 +1,54 @@
+#s-0e2b78f5-7d5d-4d5b-a4ef-3f8f07c8cd7d {
+  background-color: transparent;
+  background-image: none;
+  min-width: 320px;
+  min-height: 570px;
+}
+#s-0e2b78f5-7d5d-4d5b-a4ef-3f8f07c8cd7d > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-0e2b78f5-7d5d-4d5b-a4ef-3f8f07c8cd7d #s-Dynamic_Panel_Details {
+  position: absolute;
+  top: 63px;
+  left: 0px;
+}
+#s-0e2b78f5-7d5d-4d5b-a4ef-3f8f07c8cd7d #s-Panel_1 {
+  width: 320px;
+  height: 507px;
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+#s-0e2b78f5-7d5d-4d5b-a4ef-3f8f07c8cd7d #s-Panel_1 .verticalalign {
+  vertical-align: top;
+}
+#s-0e2b78f5-7d5d-4d5b-a4ef-3f8f07c8cd7d #s-Image_1 {
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  width: 319px;
+  height: 537px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-0e2b78f5-7d5d-4d5b-a4ef-3f8f07c8cd7d #s-Back_icon {
+  position: absolute;
+  top: 18px;
+  left: 0px;
+  width: 40px;
+  height: 44px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-0e2b78f5-7d5d-4d5b-a4ef-3f8f07c8cd7d > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

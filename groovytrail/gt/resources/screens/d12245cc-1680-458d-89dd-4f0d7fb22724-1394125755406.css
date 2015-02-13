@@ -1,0 +1,96 @@
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 {
+  background-color: transparent;
+  background-image: none;
+  min-width: 320px;
+  min-height: 568px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Background {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 320px;
+  height: 568px;
+  background-color: #68A8AD;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 12pt;
+  font-family: Roboto-Bold;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Background .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Background span {
+  color: #1174C1;
+  text-align: center;
+  text-decoration: none;
+  font-family: Roboto-Bold;
+  font-size: 12pt;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Background span#rtr-s-Background_0 {
+  color: #1174C1;
+  text-align: center;
+  text-decoration: none;
+  font-family: Roboto-Bold;
+  font-size: 12pt;
+  line-height: 0px;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Logo {
+  position: absolute;
+  top: -80px;
+  left: 75px;
+  width: 165px;
+  height: 165px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Loading {
+  position: absolute;
+  top: 413px;
+  left: 138px;
+  width: 33px;
+  height: 33px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Gradient {
+  position: absolute;
+  top: -147px;
+  left: 0px;
+  width: 320px;
+  height: 266px;
+  opacity: 0.0;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Statusbar {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 320px;
+  height: 16px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

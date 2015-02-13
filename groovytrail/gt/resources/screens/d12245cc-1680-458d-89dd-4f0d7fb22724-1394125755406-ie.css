@@ -1,0 +1,22 @@
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Background {
+  -ms-transform: rotate(0.0deg);
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Logo {
+  -ms-transform: rotate(0.0deg);
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Loading {
+  -ms-transform: rotate(0.0deg);
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Gradient {
+  -ms-transform: rotate(0.0deg);
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  filter: alpha(opacity=0);
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 #s-Statusbar {
+  -ms-transform: rotate(0.0deg);
+}
+#s-d12245cc-1680-458d-89dd-4f0d7fb22724 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

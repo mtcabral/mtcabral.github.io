@@ -1,0 +1,24 @@
+#t-4e44a0ed-0e2f-41e5-887e-70ba84eccfed #t-Background {
+  -pie-background: linear-gradient(to bottom,#E0E0E0,#FEFFFE);
+  -pie-poll: false;
+  -ms-transform: rotate(0.0deg);
+}
+#t-4e44a0ed-0e2f-41e5-887e-70ba84eccfed #t-base_header {
+  -ms-transform: rotate(0.0deg);
+}
+#t-4e44a0ed-0e2f-41e5-887e-70ba84eccfed #t-Statusbar {
+  -ms-transform: rotate(0.0deg);
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=45);
+  filter: alpha(opacity=45);
+}
+#t-4e44a0ed-0e2f-41e5-887e-70ba84eccfed #t-Page_title {
+  -ms-transform: rotate(0.0deg);
+}
+#t-4e44a0ed-0e2f-41e5-887e-70ba84eccfed #t-Back_icon {
+  -ms-transform: rotate(0.0deg);
+}
+#t-4e44a0ed-0e2f-41e5-887e-70ba84eccfed > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
