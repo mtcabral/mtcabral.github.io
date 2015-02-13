@@ -2,9 +2,15 @@
 About me
 
 
+velocidade carousel
+
 cor do texto cinzento esta demasiado claro
 cor dos links
 fix resize videos pulse chair
+
+
+cor do texto cinzento esta demasiado claro
+
 
 short video demo available
 
