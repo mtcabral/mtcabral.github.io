@@ -1,8 +1,6 @@
 About me
 
 cor do texto cinzento esta demasiado claro
-
-readability Maria Top bar
 opacidade do branco hover
 
 
